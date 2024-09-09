@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielOizumi
 - 👀 I’m interested in helping people
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on AI projects
 
 <!---
 DanielOizumi/DanielOizumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
